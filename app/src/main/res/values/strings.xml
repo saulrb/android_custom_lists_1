@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M6_SRB_LAB_ListViewPersonalizada_1</string>
+    <string name="titulo_libro">Titulo Libro</string>
+    <string name="isbn">ISBN</string>
+    <string name="button_aceptar">OK</string>
+    <string name="fecha_publiacion">Fecha publicación</string>
+</resources>
